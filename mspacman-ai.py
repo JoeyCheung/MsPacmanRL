@@ -1,7 +1,3 @@
-"""
-Solving MsPacman-v0 environment
-Author: Sakchham Sharma(sakchhams@gmail.com)
-"""
 
 import gym
 import numpy as np
